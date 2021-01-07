@@ -12,7 +12,7 @@ Title:    "Dispense entry Example - Community Pharmacy dispense, from prescripti
 * context.identifier.value = "b8ca980c-72aa-11e7-8cf7-a6006ad3dba0"
 * identifier[0].system = "https://www.gfd-dpp.be/fhir/reference/dguid"
 * identifier[0].type.coding.code = #dguid
-* identifier[0].value = "a8ca980c-72aa-11e7-8cf7-a6006ad3dba0"
+* identifier[0].value = "a8ca980c-72aa-11e7-8cf7-a6006ad3dba0"  
 * status = #completed
 * medicationCodeableConcept.coding.system = "https://cnk.apb.be/codings/cnk_product_codes"
 * medicationCodeableConcept.coding.code = #1439562
